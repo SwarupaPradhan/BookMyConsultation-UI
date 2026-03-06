@@ -76,6 +76,3 @@ GitHub
 https://github.com/SwarupaPradhan
 LinkedIn  
 https://www.linkedin.com/in/swarupapradhan8
-
-
-## Project Structure
